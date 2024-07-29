@@ -1,0 +1,5 @@
+{
+    "cmake.additionalCompilerSearchDirs": [
+        "C:\\Program Files\\mingw64\\bin"
+    ]
+}
